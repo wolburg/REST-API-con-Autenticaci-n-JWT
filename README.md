@@ -18,7 +18,7 @@ Pruebas funcionales con capturas - 15 %
 
 Conclusión objetiva - 5 %
 
-Enlace del video: 
+Enlace del video: https://www.youtube.com/watch?v=v3VVzHqm1dU
 
 Enlacer a swagger: http://localhost:3000/api-docs/#/
 
